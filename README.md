@@ -7,7 +7,6 @@ Note: since we have used data sources with web scraping, APIs, etc. the content 
 format of such data sources may change in the future and be different from our results.
 Certain websites may block IP addresses using web scraping or API calls that reach a
 maximum limit, and hence cause errors after running the code.
-* You will need to upgrade your Python to 3.9 to run the code.
 
 
 Go to “Final Source Code” folder > ‘Thomas’ folder
