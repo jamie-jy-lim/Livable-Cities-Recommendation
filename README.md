@@ -20,7 +20,6 @@ output to get the walk score and bike score from a website using API
 [collect, clean and merge the data]
 1. The output is ‘final_city_state_geocode.csv’
 
-
 Go to “Final Source Code” folder > ‘Yvette’ folder
 1. Run ‘cost_of_living.py’ [collect the data]
 a. The script scrapes the data for the cost of living from the web page.
@@ -32,7 +31,6 @@ different variables
 b. The only parameter of the program will determine if cities are ranked in
 an ascending way or descending way.
 
-  
 Go to “Final Source Code” folder > ‘Jamie’ folder
 1. Run ‘edu_score_webscraping.py’. [web scrape data]
 a. This script scrapes data for the education score from the web page
@@ -54,7 +52,6 @@ a. This script merges cleaned score data from step 4 with city names &
 abbreviations data (‘city_cleaned_with_abbr.csv’)
 b. It produces an output called ‘jamie.csv’
 
-  
 Go to “Final Source Code” folder > ‘Tina’ folder
 1. Run ‘city_cleaned_with_zip_tina.py’. [collect and clean the data]
 a. This script uses ‘uszips.csv’ and ‘final_city_state_geocode_thomas.csv’
